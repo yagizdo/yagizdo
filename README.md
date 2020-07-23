@@ -1,6 +1,6 @@
 ![gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
-I'm a **Android Developer 💻** who living in İstanbul/Turkey. I'ma huge nerd/geek, Valorant player and Athlete.
+I'm a **Android Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
 
 #### Personality ✨
 - Always positive 😊
