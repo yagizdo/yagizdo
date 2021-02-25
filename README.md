@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yagizdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
 [![Gmail Badge](https://img.shields.io/badge/-dokumaciyagiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
 
-I'm a **Android Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
+I'm a **Mobile Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
 
 #### Personality ✨
 - Always positive 😊
@@ -21,7 +21,6 @@ I'm a **Android Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd
 - Personal Website : https://yagizdokumaci.com/
 - Instagram : https://www.instagram.com/yagizdo/
 
-[![Yılmaz's github stats](https://github-readme-stats.vercel.app/api?username=yagizdo)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizdo&show_icons=true&count_private=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizdo&layout=compact)](https://github.com/oguzsh/github-readme-stats)
