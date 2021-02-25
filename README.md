@@ -2,9 +2,9 @@
 
 <img src="https://profile-counter.glitch.me/yagizdo/count.svg" />
 
-[![Twitter Badge](https://img.shields.io/badge/-@oguz_sh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oguz_sh)](https://twitter.com/Yagizdoo)
-[![Linkedin Badge](https://img.shields.io/badge/-oguzhanince-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
-[![Gmail Badge](https://img.shields.io/badge/-oguzhan824@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Yagizdoo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oguz_sh)](https://twitter.com/Yagizdoo)
+[![Linkedin Badge](https://img.shields.io/badge/-yagizdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
+[![Gmail Badge](https://img.shields.io/badge/-dokumaciyagiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
 
 I'm a **Android Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
 
