@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+![gif](https://media0.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.gif)
 
 <img src="https://profile-counter.glitch.me/yagizdo/count.svg" />
 
