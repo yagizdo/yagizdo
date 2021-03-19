@@ -1,4 +1,4 @@
-![gif](https://tvline.com/wp-content/uploads/2020/04/brooklyn-nine-nine-push-it-finale-holt-terry-dance.gif)
+![gif](https://giphy.com/gifs/brooklynninenine-fox-broadcasting-e7PP9dnzislEyjoENu)
 
 <img src="https://profile-counter.glitch.me/yagizdo/count.svg" />
 
