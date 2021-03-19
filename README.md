@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yagizdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
 [![Gmail Badge](https://img.shields.io/badge/-dokumaciyagiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
 
-I'm a **Mobile Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
+I'm a **Jr. Mobile Developer 💻** who living in İstanbul/Turkey. I'm a huge nerd/geek, Valorant player and Athlete.
 
 #### Personality ✨
 - Always positive 😊
