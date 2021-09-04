@@ -3,6 +3,7 @@
 <h1>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=yagizdo&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
+
 [![Twitter Badge](https://img.shields.io/badge/-@Yagizdoo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oguz_sh)](https://twitter.com/Yagizdoo)
 [![Linkedin Badge](https://img.shields.io/badge/-yagizdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
 [![Gmail Badge](https://img.shields.io/badge/-dokumaciyagiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
