@@ -37,6 +37,9 @@
 <a href = 'https://www.linkedin.com/in/yagizdo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/yagizdoo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/yagizdo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://yagizdokumaci.com/'> <img width = '32px' align= 'center' src="https://yagizdokumaci.com/android-icon-192x192.png"/></a> 
+<a href = 'https://blog.yagizdokumaci.com/'> <img width = '32px' align= 'center' src="https://blog.yagizdokumaci.com/android-icon-192x192.png"/></a> 
+
 
 
 
