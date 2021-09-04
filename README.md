@@ -1,7 +1,5 @@
 ![gif](https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp)
 
-
-
 [![Twitter Badge](https://img.shields.io/badge/-@Yagizdoo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oguz_sh)](https://twitter.com/Yagizdoo)
 [![Linkedin Badge](https://img.shields.io/badge/-yagizdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/yagizdo/)
 [![Gmail Badge](https://img.shields.io/badge/-dokumaciyagiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oguzhan824@gmail.com)](mailto:dokumaciyagiz@gmail.com)
