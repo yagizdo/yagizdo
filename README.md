@@ -1,5 +1,5 @@
 
-<img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="960" height="540" />
+<img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="900" height="500" />
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
