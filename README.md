@@ -1,16 +1,7 @@
 
 <img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="900" height="500" />
 
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yagizdo.yagizdo)
-
-</p>
-<div size='20px'> Hi! My name is Yılmaz Yağız. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A124&size=70&vCenter=true&multiline=true&width=1600&height=200&lines=Hi!;Its+Y%C4%B1lmaz.+I'm+a+Flutter+Developer)](https://git.io/typing-svg)
 
 <h2> About Me</h2>
 
@@ -40,8 +31,10 @@
 <a href = 'https://yagizdokumaci.com/'> <img width = '32px' align= 'center' src="https://yagizdokumaci.com/android-icon-192x192.png"/></a> 
 <a href = 'https://blog.yagizdokumaci.com/'> <img width = '32px' align= 'center' src="https://blog.yagizdokumaci.com/android-icon-192x192.png"/></a> 
 
+</br>
+</br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizdo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
@@ -51,5 +44,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
+![Snake animation](https://svgshare.com/i/_CU.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yagizdo.yagizdo)
 
 <br>
