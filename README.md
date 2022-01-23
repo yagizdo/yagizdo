@@ -1,8 +1,6 @@
 
 <img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="900" height="500" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A124&size=70&vCenter=true&multiline=true&width=1600&height=200&lines=Hi!;Its+Y%C4%B1lmaz.+I'm+a+Flutter+Developer)](https://git.io/typing-svg)
-
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
