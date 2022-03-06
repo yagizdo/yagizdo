@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Flutter, Dart, JavaScript 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Mobile App Projects
 
 - 💬 Talk to me about Mobile App Development, Flutter, Java
 
