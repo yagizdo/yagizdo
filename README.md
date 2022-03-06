@@ -1,5 +1,5 @@
 
-<img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="1100" height="600" />
+<img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="1000" height="550" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyagizdo&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -69,7 +69,7 @@
   <a href="https://buymeacoffee.com/yagizdo" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
 </p>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '30px'></h2>
+<h2> Some Programming Humor for you <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '25px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
