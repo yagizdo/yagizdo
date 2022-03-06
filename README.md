@@ -42,7 +42,7 @@
 <h3 align="left">Familarity</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></img>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></img>
+  <!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></img> -->
 </p>
 
 <h3 align="left">Databases and cloud hosting</h3>
