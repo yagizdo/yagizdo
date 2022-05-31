@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on Flutter
 
-- 🌱 I’m currently learning Flutter, Dart, JavaScript 
+- 🌱 I’m currently learning Flutter, Dart
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
-- 💬 Talk to me about Mobile App Development, Flutter, Java
+- 💬 Talk to me about Mobile App Development, Flutter
 
 
 <h3 align="left">Software and tools</h3>
