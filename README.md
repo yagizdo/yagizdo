@@ -1,5 +1,5 @@
 
-<img src="https://i.giphy.com/media/9J6TRr1EyWVCMAxV6w/giphy.webp" width="1000" height="550" />
+<img src="https://media.giphy.com/media/xT0Gqz6wHk6BqX4i4M/giphy.gif" width="1000" height="550" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Flutter+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
