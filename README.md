@@ -20,6 +20,11 @@
 
 - 💬 Talk to me about Mobile App Development, Flutter
 
+<br>
+<br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagizdo&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Software and tools</h3>
 <p>
