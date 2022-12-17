@@ -69,7 +69,7 @@
 <a href = 'https://yagizdo.medium.com/'> <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a> 
 <a href = 'https://www.twitch.tv/yagoo'> <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"/></a> 
 <a href = 'https://yagizdokumaci.com/'> <img width = '20px' src="https://yagizdokumaci.com/android-icon-192x192.png"/></a> 
-<a href = 'https://blog.yagizdokumaci.com/'> <img width = '20px' src="https://blog.yagizdokumaci.com/android-icon-192x192.png"/></a> 
+
 
 </br>
 </br>
