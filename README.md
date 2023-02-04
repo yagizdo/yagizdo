@@ -12,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Swift
 
-- 🌱 I’m currently learning Flutter, Dart
+- 🌱 I’m currently learning Swıft, Flutter (Dart)
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
