@@ -63,13 +63,21 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60px"> </h2>
-<a href = 'https://www.linkedin.com/in/yagizdo'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/></a> 
-<a href = 'https://www.twitter.com/yagizdo'> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a> 
-<a href = 'https://www.github.com/yagizdo'> <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/></a>
-<a href = 'https://yagizdo.medium.com/'> <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a> 
-<a href = 'https://www.twitch.tv/yagoo'> <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"/></a> 
-<a href = 'https://yagizdokumaci.com/'> <img width = '20px' src="https://yagizdokumaci.com/android-icon-192x192.png"/></a> 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/yagizdo">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://www.twitter.com/yagizdo">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.github.com/yagizdo">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.twitter.com/yagizdo">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
+</p>
 
 </br>
 </br>
