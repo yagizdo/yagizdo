@@ -22,9 +22,9 @@
 
 <br>
 <br>
-<br>
+<be>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagizdo&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagizdo&theme=github-dark&hide_border=true)](https://git.io/streak-stats) -->
 
 <h3 align="left">Software and tools</h3>
 <p align="left">
@@ -86,10 +86,10 @@
   <a href="https://buymeacoffee.com/yagizdo" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
 </p>
 
-<h2> Some Programming Humor for you </h2>
+<!-- <h2> Some Programming Humor for you </h2> -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark) -->
 
-![Snake animation](https://svgshare.com/i/_CU.svg)
+<!--  ![Snake animation](https://svgshare.com/i/_CU.svg) -->
 
 <br>
