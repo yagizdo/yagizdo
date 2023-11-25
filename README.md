@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Swift
+- 🔭 I’m currently working on Cross4Solution Technology
 
 - 🌱 I’m currently learning Swıft, Flutter (Dart)
 
