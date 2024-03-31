@@ -12,13 +12,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [Cross4Solution Technology](https://cross4solution.com/)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning Swıft, Flutter (Dart)
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
 - 💬 Talk to me about Mobile App Development, Flutter
+
+- 📄 Know about my experiences [My Resume](https://read.cv/yagizdo) 
 
 <br>
 <br>
