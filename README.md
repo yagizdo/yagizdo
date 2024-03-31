@@ -71,9 +71,6 @@
     <a href="https://www.twitter.com/yagizdo">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.github.com/yagizdo">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://www.twitter.com/yagizdo">
     <img src="https://skillicons.dev/icons?i=medium" />
   </a>
