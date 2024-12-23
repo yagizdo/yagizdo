@@ -85,6 +85,8 @@
   <a href="https://buymeacoffee.com/yagizdo" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
 </p>
 
+<!-- Cool Gifs and Animates: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md  -->
+
 <!-- <h2> Some Programming Humor for you </h2> -->
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark) -->
