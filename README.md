@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Orion Innovation](https://www.orioninc.com/)
 
-- 🌱 I’m currently learning Swıft, Flutter (Dart)
+- 🌱 I’m currently learning Swıft, Flutter (Dart), Appium (Java)
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
