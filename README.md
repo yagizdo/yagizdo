@@ -16,7 +16,6 @@
 <div align="center">
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fyagizdo&label=Visitors&icon=github&color=%23ffc107&message=&style=flat&tz=UTC)
-[![wakatime](https://wakatime.com/badge/user/8bc7a88c-d81b-4d2e-95cd-12e128028abe.svg)](https://wakatime.com/@8bc7a88c-d81b-4d2e-95cd-12e128028abe)
 
 </div>
 
