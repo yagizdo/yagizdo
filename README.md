@@ -118,11 +118,3 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yagizdo)
 
 </br>
-
-<h2>⚡ Current Focus</h2>                                                                                                                     
-                                                                         
-  - 📱 Shipping production Flutter apps to **App Store & Google Play** · building with scale in mind                                            
-  - 🧪 Designing **mobile test automation** infrastructure from scratch (Patrol, Appium, Cucumber)                                              
-  - 🍎 Deepening **Swift & native iOS** development — bridging Flutter and native ecosystems                                                    
-  - 🤖 Exploring **AI tools & integrations** to enhance mobile development workflows        
-
