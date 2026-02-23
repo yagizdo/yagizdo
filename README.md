@@ -28,7 +28,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Currently building at [Orion Innovation](https://www.orioninc.com/)
+- 🔭 Currently working at [Orion Innovation](https://www.orioninc.com/)
 - 📱 Developing native **iOS (Swift)** & cross-platform **Flutter** apps
 - 🚀 Shipped apps on **App Store** & **Google Play** · CI/CD pipeline experience
 - 🧪 Passionate about **mobile test automation** · Patrol (Flutter), Appium, Cucumber
