@@ -4,7 +4,7 @@
  <div align="center">                                                                                                                          
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6YXJicTVsdjE5a2ZzeGJpY3llcWZ3NXJrY21kazdhZ2swZ3RvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJEz2pvqumDlG2Twh/giphy.gif" width="850" height="468" />
   
-<h1 align="center">Yağız Yılmaz Dokumacı</h1>
+<h1 align="center">Yılmaz Yağız Dokumacı</h1>
 <h3 align="center">Mobile Developer · iOS (Swift) · Flutter · Android</h3>
 
 <div align="center">
