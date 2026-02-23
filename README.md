@@ -1,9 +1,9 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6YXJicTVsdjE5a2ZzeGJpY3llcWZ3NXJrY21kazdhZ2swZ3RvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJEz2pvqumDlG2Twh/giphy.gif" width="850" height="468" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffc107&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyagizdo&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fyagizdo&label=Visitors&icon=github&color=%23ffc107&message=&style=flat&tz=UTC)
 
 [![wakatime](https://wakatime.com/badge/user/8bc7a88c-d81b-4d2e-95cd-12e128028abe.svg)](https://wakatime.com/@8bc7a88c-d81b-4d2e-95cd-12e128028abe)
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Orion Innovation](https://www.orioninc.com/)
 
-- 🌱 I’m currently learning Swıft, Flutter (Dart), Appium (Java)
+- 🌱 I’m currently learning Swift, Flutter (Dart), Appium (Java)
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
