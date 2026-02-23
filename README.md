@@ -1,6 +1,9 @@
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6YXJicTVsdjE5a2ZzeGJpY3llcWZ3NXJrY21kazdhZ2swZ3RvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJEz2pvqumDlG2Twh/giphy.gif" width="850" height="468" />
 
+
+ <div align="center">                                                                                                                          
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6YXJicTVsdjE5a2ZzeGJpY3llcWZ3NXJrY21kazdhZ2swZ3RvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJEz2pvqumDlG2Twh/giphy.gif" width="850" height="468" />
+  
 <h1 align="center">Yağız Yılmaz Dokumacı</h1>
 <h3 align="center">Mobile Developer · iOS (Swift) · Flutter · Android</h3>
 
@@ -30,7 +33,16 @@
 - 👯 Open to collaborate on **open-source mobile projects**
 - 💬 Ask me about **Mobile App Development, Flutter, Swift, Mobile Test Automation**
 
----
+---                                                                                                                                           
+                                                                                                                                                
+<h2>⚡ Current Focus</h2>                                                                                                                     
+                                                                         
+- 🍎 Actively learning **Swift & native iOS** development
+- 📱 Shipping production Flutter apps to **App Store & Google Play** · building with scale in mind                                            
+- 🧪 Designing **mobile test automation** infrastructure from scratch (Patrol, Appium, Cucumber)
+- 🤖 Exploring **AI tools & integrations** to enhance mobile development workflows                                                         
+                                                                                                                                                
+---   
 
 <h2>Tech Stack</h2>
 
@@ -105,4 +117,10 @@
 
 </br>
 
+<h2>⚡ Current Focus</h2>                                                                                                                     
+                                                                         
+  - 📱 Shipping production Flutter apps to **App Store & Google Play** · building with scale in mind                                            
+  - 🧪 Designing **mobile test automation** infrastructure from scratch (Patrol, Appium, Cucumber)                                              
+  - 🍎 Deepening **Swift & native iOS** development — bridging Flutter and native ecosystems                                                    
+  - 🤖 Exploring **AI tools & integrations** to enhance mobile development workflows        
 
