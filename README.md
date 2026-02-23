@@ -33,34 +33,56 @@
 
 <h2>Tech Stack</h2>
 
-<h4 align="left">Languages & Frameworks</h4>
+<h4 align="left">Flutter & Cross-Platform</h4>
+<p>
+
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+
+</p>
+
+<h4 align="left">iOS Native</h4>
 <p>
 
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)](#)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff)](#)
+[![UIKit](https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white)](#)
+
+</p>
+
+<h4 align="left">Testing & Automation</h4>
+<p>
+
+[![Appium](https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white)](#)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff)](#)
+[![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 </p>
 
-<h4 align="left">Tools & IDEs</h4>
-<p>
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-346AC1?logo=android-studio&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white)](#)
-
-</p>
-
-<h4 align="left">Databases & Cloud</h4>
+<h4 align="left">Backend & Services</h4>
 <p>
 
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+
+</p>
+
+<h4 align="left">Tools & Workflow</h4>
+<p>
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-346AC1?logo=android-studio&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yagizdo)
 
 </p>
 
@@ -82,18 +104,5 @@
 </p>
 
 </br>
-</br>
 
-<p>  
-  <a href="https://buymeacoffee.com/yagizdo" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
-</p>
 
-<!-- Cool Gifs and Animates: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md  -->
-
-<!-- <h2> Some Programming Humor for you </h2> -->
-
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark) -->
-
-<!--  ![Snake animation](https://svgshare.com/i/_CU.svg) -->
-
-<br>
