@@ -83,26 +83,25 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yagizdo)
+
+</p>
+
+<h4 align="left">CI/CD</h4>
+<p>
+
+[![Codemagic](https://img.shields.io/badge/Codemagic-0051FF?logo=Codemagic&logoColor=fff)](#)
 
 </p>
 
 ---
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60px"> </h2>
+<h2> Connect with me </h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yagizdo">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="https://www.twitter.com/yagizdo">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.twitter.com/yagizdo">
-    <img src="https://skillicons.dev/icons?i=medium" />
-  </a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yagizdo)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.twitter.com/yagizdo)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yagizdo)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yagizdo)
 
 </br>
 
