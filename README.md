@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffc107&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;iOS+%7C+Flutter+%7C+Android;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffc107&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;iOS+%7C+Flutter+%7C+Android)](https://git.io/typing-svg)
 
 </div>
 
