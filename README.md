@@ -25,9 +25,10 @@
 
 - 🔭 Currently building at [Orion Innovation](https://www.orioninc.com/)
 - 📱 Developing native **iOS (Swift)** & cross-platform **Flutter** apps
-- 🌱 Exploring **Appium (Java)** for mobile test automation
+- 🚀 Shipped apps on **App Store** & **Google Play** · CI/CD pipeline experience
+- 🧪 Passionate about **mobile test automation** · Patrol (Flutter), Appium, Cucumber
 - 👯 Open to collaborate on **open-source mobile projects**
-- 💬 Ask me about **Mobile App Development, Flutter, Swift**
+- 💬 Ask me about **Mobile App Development, Flutter, Swift, Mobile Test Automation**
 
 ---
 
