@@ -115,15 +115,8 @@
     Check out my published mobile apps on the stores:
   </p>
 
-  <p>
-    <a href="https://apps.apple.com/tr/developer/yilmaz-yagiz-dokumaci/id1614639838">
-      <img src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" alt="App Store" />
-    </a>
-    &nbsp;
-    <a href="https://play.google.com/store/apps/dev?id=5463334062558652545&hl=en">
-      <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" alt="Google Play Store" />
-    </a>
-  </p>
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/tr/developer/yilmaz-yagiz-dokumaci/id1614639838)
+[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5463334062558652545&hl=en)
 
 ---
 
