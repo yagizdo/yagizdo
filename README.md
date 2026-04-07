@@ -106,6 +106,7 @@
 <p>
 
 [![Codemagic](https://img.shields.io/badge/Codemagic-0051FF?logo=Codemagic&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 </p>
 
