@@ -20,7 +20,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working at [Orion Innovation](https://www.orioninc.com/)
+- 🔭 Currently working at [AppNation](https://www.appnation.co)
 - 📱 Developing native **iOS (Swift)** & cross-platform **Flutter** apps
 - 🚀 Shipped apps on **App Store** & **Google Play** · CI/CD pipeline experience
 - 🧪 Hands-on experience with **mobile test automation** — Patrol, Appium, Cucumber
